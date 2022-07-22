@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+	<link rel="stylesheet" href="normalize.css">
+	<link rel="stylesheet" href="index.css">
+</head>
+<body>
+	
+	<section class="hero_image">
+		<div class="hero_wrapper">
+			<h1>We Sell Lifestyle</h1>
+			<p>Flat 40% OFF on premium brand</p>
+			<span>email</span>
+			<form class="form_email"> 
+
+				<input class="post_email" type="text" placeholder="Enter your Email">
+				<button type="submit">Shop Now</button>
+			</form>
+		</div>
+	</section>
+
+	<section class="product">
+		<div class="product__list__item">
+			<img class="img-responsive" src="shirt.jpg" alt="">
+			<h2 class="product_heading">
+				shirt
+			</h2>
+			<p>our exquisite collection of shirts</p>
+		</div>
+
+		<div class="product__list__item">
+			<img class="img-responsive" src="watch.jpg" alt="">
+			<h2 class="product_heading">
+				watch
+			</h2>
+			<p>original wathes from the best brand
+
+			</p>
+		</div>
+		<div class="product__list__item">
+			<img class="img-responsive" src="cramer.jpg" alt="">
+			<h2 class="product_heading">
+				cramer
+			</h2>
+			<p>choose among the best available in the world</p>
+		</div>
+
+	</section>
+</body>
+</html> 
